@@ -5,7 +5,7 @@ const listContainer = document.getElementById('listContainer');
 const addBtn = document.getElementById('addBtn');
 
 
-// Fonction pour ajouter une tâche
+// Fonction pour ajouter une tâche 
 function addTask() {
   const taskText = inputBox.value.trim();
 
